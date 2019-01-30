@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "scss-powertools scss/name.scss output/compiled.css"
+    "build": "scss-powertools scss/custom.scss dist/custom.css"
   },
   "author": "",
   "license": "ISC",
