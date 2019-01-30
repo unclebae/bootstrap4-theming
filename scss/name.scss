@@ -1,0 +1,16 @@
+
+$enable-grid-classes:false;
+$primary:#30ff94;
+$secondary:#cacaca;
+$success:#015668;
+$danger:#06648c;
+$info:#0f81c7;
+$warning:#0de2ea;
+$light:#ececec;
+$dark:#222;
+$spacer:1rem;
+$border-width:1px;
+$btn-border-radius-lg:25px;
+$card-border-radius:25px;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
