@@ -179,8 +179,8 @@ And create index.html and edit like this. (This code blocks from Bootstrap Examp
 
 Then you can see like this picture.
 
-![Picture]("./bootstrap_sample.png")
+![Picture](./bootstrap_sample.png)
 
 
 
-
+/unclebae/bootstrap4-theming/blob/master/bootstrap_sample.png
