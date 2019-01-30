@@ -177,6 +177,9 @@ And create index.html and edit like this. (This code blocks from Bootstrap Examp
 </html>
 ```
 
+Then you can see like this picture.
+
+![Picture]("./bootstrap_sample.png")
 
 
 
