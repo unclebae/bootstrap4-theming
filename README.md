@@ -85,6 +85,7 @@ Second, add this code block "build": "scss-powertools scss/custom.scss dist/cust
     "scss-powertools": "^1.0.1"
   }
 }
+```
 
 ## Step7.
 Run npm build
