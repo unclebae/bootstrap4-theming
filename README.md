@@ -104,10 +104,10 @@ And create index.html and edit like this. (This code blocks from Bootstrap Examp
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Themestr.app - Bootstrap Theme Builder and Customizer</title>
+    <title>Bootstrap Theming.</title>
     <base href="/">
-    <meta name="description" content="A custom Bootstrap 4 theme builder that generates CSS from Bootstrap SASS. Rapidly build custom themes by selecting colors, fonts and variables with this simple theme editor." />
-    <link rel="stylesheet" href="output/compiled.css" />
+    <meta name="description" content="BootStrap Theming." />
+    <link rel="stylesheet" href="dist/custom.css" />
   </head>
   <body>
     <div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom box-shadow">
